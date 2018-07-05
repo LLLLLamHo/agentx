@@ -4,8 +4,9 @@
 
 const fs = require('fs');
 const path = require('path');
+
 const nounou = require('nounou');
-const util = require('util');
+
 const clientPath = path.join(__dirname, 'client.js');
 
 const argv = process.argv.slice(2);
