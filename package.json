@@ -13,7 +13,7 @@
     "agentx": "./start_client.js"
   },
   "main": "./lib/agent",
-  "author": "Jackson Tian",
+  "author": "LLLLLamHo",
   "license": "MIT",
   "dependencies": {
     "ws": "^1.1.5",
