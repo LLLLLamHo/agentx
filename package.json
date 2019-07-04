@@ -1,6 +1,6 @@
 {
   "name": "ea-agentx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "agentx is powered by alinode",
   "scripts": {
     "lint": "eslint lib test *.js",
@@ -13,7 +13,7 @@
     "agentx": "./start_client.js"
   },
   "main": "./lib/agent",
-  "author": "LLLLLamHo",
+  "author": "Jackson Tian",
   "license": "MIT",
   "dependencies": {
     "ws": "^1.1.5",
