@@ -1,6 +1,6 @@
 {
   "name": "ea-agentx",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "agentx is powered by alinode",
   "scripts": {
     "lint": "eslint lib test *.js",
@@ -20,7 +20,8 @@
     "nounou": "^1.2.1",
     "split2": "^2.2.0",
     "through2": "^2.0.3",
-    "ws": "^1.1.5"
+    "ws": "^1.1.5",
+    "socket.io-client": "^2.2.0"
   },
   "devDependencies": {
     "co": "^4.6.0",
@@ -30,8 +31,7 @@
     "mm": "^2.2.0",
     "mocha": "^5.2.0",
     "nyc": "^11.6.0",
-    "rewire": "^2.5.2",
-    "socket.io-client": "^2.2.0"
+    "rewire": "^2.5.2"
   },
   "files": [
     "lib",
