@@ -1,6 +1,6 @@
 {
   "name": "ea-agentx",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "agentx is powered by alinode",
   "scripts": {
     "lint": "eslint lib test *.js",
